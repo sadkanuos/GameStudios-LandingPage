@@ -7,7 +7,7 @@ This design features special hamburger menu that envelops the nav bar menu insid
 
 The design catalogue items is inspired by the games made by Remedy Entertainment.
 ## Made Using
-
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
 ## Usage
 Install Dependencies:
