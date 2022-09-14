@@ -22,7 +22,7 @@ npm run watch
 <img src="assets/screenshot.png">
 
 ### Mobile-View
-<p float="left">
-<img src="assets/screenshot-mob.png">    
+<img src="assets/screenshot-mob.png">
+
+### Mobile-View with Menu
 <img src="assets/screenshot-mob-menu.png">
-</p>
