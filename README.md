@@ -19,6 +19,10 @@ npm run watch
 
 ## Screenshots
 ### Web-View
+<img src="assets/screenshot.png">
 
 ### Mobile-View
-<img src="">
+<p float="left">
+<img src="assets/screenshot-mob.png">    
+<img src="assets/screenshot-mob-menu.png">
+</p>
